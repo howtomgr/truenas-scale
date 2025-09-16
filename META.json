@@ -1,0 +1,61 @@
+{
+  "category": "storage-solutions",
+  "created_date": "2025-09-15T23:14:54.042559",
+  "default_ports": [
+    443
+  ],
+  "dependencies": [
+    "debian-base",
+    "zfs",
+    "kubernetes"
+  ],
+  "description": "TrueNAS SCALE is an open-source hyper-converged storage solution",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/storage-solutions/truenas-scale",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/storage-solutions/truenas-scale",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T23:14:54.042564",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "truenas-scale",
+  "repository_url": "https://github.com/howtomgr/truenas-scale",
+  "spec_version": "2.0",
+  "subcategory": "storage-solutions",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "storage",
+    "nas",
+    "zfs",
+    "kubernetes",
+    "hyperconverged"
+  ],
+  "title": "Truenas Scale",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/storage-solutions/truenas-scale"
+}
